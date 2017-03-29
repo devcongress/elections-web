@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: '/home/yawboakye/open/devcongress/elections/web',
+    modulePrefix: 'web',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
